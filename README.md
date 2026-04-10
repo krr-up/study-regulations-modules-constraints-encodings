@@ -23,8 +23,17 @@ Execute the [`clinguin`](https://clinguin.readthedocs.io/en/latest/) user interf
    --domain-files encoding.lp cogsys.lp \
    --ui-files user_interface/ui_base.lp \
    --custom-classes user_interface/backend.py \
-   --backend MyBackend -c n=4
+   --backend MyBackend -c n=5
    ```
 
 > In case you have a different Python version on your machine, you may install `pyenv` to manage multiple Python versions - [this article](https://medium.com/@aashari/easy-to-follow-guide-of-how-to-install-pyenv-on-ubuntu-a3730af8d7f0) might help you.
 
+
+
+#### Screenshots
+
+![Screenshot of the application](images/ui_study_reg_empty.png)<br>
+*Figure 1: User interface when first-run*
+
+![Screenshot of the application](images/ui_study_reg_complete.png)<br>
+*Figure 2: A study plan satisfying the given student constraints*
