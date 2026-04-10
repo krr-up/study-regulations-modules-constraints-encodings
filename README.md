@@ -1,4 +1,4 @@
-## Repo for the PATAT manuscript titled - _Reasoning about University Study Regulations Module-based Student Constraints and Preferences in Answer Set Programming_
+## Repo for the PATAT 2026 manuscript titled - _Reasoning about University Study Regulations Module-based Student Constraints and Preferences in Answer Set Programming_
 
 #### Getting Started
 
